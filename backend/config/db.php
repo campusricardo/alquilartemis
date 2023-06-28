@@ -14,10 +14,10 @@ if (!defined("DB_NAME")) {
 }
 
 if (!defined("DB_USER")) {
-    define("DB_USER", "riadfrancoq");
+    define("DB_USER", "");
 }
 
 if (!defined("DB_PWD")) {
-    define("DB_PWD", "157521");
+    define("DB_PWD", "");
 }
 
